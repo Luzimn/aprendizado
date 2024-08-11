@@ -1,0 +1,15 @@
+C:\Users\luc\Desktop\program\aprendizado\obj\Debug\net6.0\aprendizado.csproj.AssemblyReference.cache
+C:\Users\luc\Desktop\program\aprendizado\obj\Debug\net6.0\aprendizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luc\Desktop\program\aprendizado\obj\Debug\net6.0\aprendizado.AssemblyInfoInputs.cache
+C:\Users\luc\Desktop\program\aprendizado\obj\Debug\net6.0\aprendizado.AssemblyInfo.cs
+C:\Users\luc\Desktop\program\aprendizado\obj\Debug\net6.0\aprendizado.csproj.CoreCompileInputs.cache
+C:\Users\luc\Desktop\program\aprendizado\bin\Debug\net6.0\aprendizado.exe
+C:\Users\luc\Desktop\program\aprendizado\bin\Debug\net6.0\aprendizado.deps.json
+C:\Users\luc\Desktop\program\aprendizado\bin\Debug\net6.0\aprendizado.runtimeconfig.json
+C:\Users\luc\Desktop\program\aprendizado\bin\Debug\net6.0\aprendizado.dll
+C:\Users\luc\Desktop\program\aprendizado\bin\Debug\net6.0\aprendizado.pdb
+C:\Users\luc\Desktop\program\aprendizado\obj\Debug\net6.0\aprendizado.dll
+C:\Users\luc\Desktop\program\aprendizado\obj\Debug\net6.0\refint\aprendizado.dll
+C:\Users\luc\Desktop\program\aprendizado\obj\Debug\net6.0\aprendizado.pdb
+C:\Users\luc\Desktop\program\aprendizado\obj\Debug\net6.0\aprendizado.genruntimeconfig.cache
+C:\Users\luc\Desktop\program\aprendizado\obj\Debug\net6.0\ref\aprendizado.dll
